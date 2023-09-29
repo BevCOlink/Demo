@@ -1,0 +1,16 @@
+{
+'task':      'freq scan',
+'ref':       True,
+'freq':      [1300,1400,1],
+'MW power':  -35,
+'list':
+    [
+    ('AOM',                     3),
+    ('AOM|MW|CounterGate',      500),
+    ('AOM|MW',                 0.3),
+    ('AOM',                      3),
+    ('AOM|CounterGate',         500),
+    ('AOM',                   0.3),
+    ]
+}
+

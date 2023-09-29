@@ -1,0 +1,18 @@
+{
+'task':      't scan',
+'ref':       False,
+'t':         [0.02,0.52,50],
+'freq':      1352.20446,
+'MW power':  -25,
+'list':
+    [
+    ('AOM|CounterGate',         2),
+    ('Idle',                    1),
+    ('MW',                     't'),
+    ('Idle',                   0.2),
+    ('AOM',                    0.55),
+    ('AOM|CounterGate',         0.55),
+    ('Idle',                   0.02),
+    ]
+}
+

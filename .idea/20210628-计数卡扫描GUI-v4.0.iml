@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Confocal_Control" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Counter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MicroWave" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MicroMove" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Point_Lock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpinCore" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Spin_Control" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tools_Sc_List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Wideget_Style" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Wideget_Style/ButtonStyle.py" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tools_autofind_spots" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/user_class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/user_defiend_control" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tektronix-AFG" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6 (py36)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>
